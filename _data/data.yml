@@ -15,7 +15,7 @@ sidebar:
     linkedin: shailem
     github: shailmis
     twitter: '@matrixcal' 
-    languages (Skills):
+    languages:
       - idiom: Observability
         level: Professional
       - idiom: Cloud Technologies
@@ -35,6 +35,18 @@ career-profile:
       driving excellence for reliability through maintenance of SLAs, efficient processes, 
       monitoring implementation,automation development, engineering reliability back into 
       applications and maximizing performance
+         - idiom: Observability
+        level: Professional
+      - idiom: Cloud Technologies
+        level: Professional
+      - idiom: Devops and Agile
+        level: Professional
+      - idiom: Python
+        level: Professional
+      - idiom: Team building and process improvement
+        level: Professional
+      - idiom: Problem Management and RCA 
+        level: Professional 
     highlights: |
      - Ability to post-mortem the unexpected incidents to solve future hazards
      - Skilled evaluating new possibilities and capacity planning aptitudes
