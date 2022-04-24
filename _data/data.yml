@@ -15,21 +15,7 @@ sidebar:
     linkedin: shailem
     github: shailmis
     twitter: '@matrixcal' 
-    SkillsTochan:
-    toolset:
-      - idiom: Observability
-        level: 98%
-      - idiom: Cloud Technologies
-        level: 98%
-      - idiom: Devops and Agile
-        level: 98%
-      - idiom: Python
-        level: 95%
-      - idiom: Team building and process improvement
-        level: 99%
-      - idiom: Problem Management and RCA 
-        level: 90%  
-    Skills:
+    languages (Skills):
       - idiom: Observability
         level: Professional
       - idiom: Cloud Technologies
